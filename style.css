@@ -22,7 +22,7 @@
 .outer-wrap{
     width: 100%;
     min-height: 100vh;
-    background-color: #0D479A;
+    background-color: whitesmoke;
     padding: 30px;
 }
 
@@ -37,7 +37,7 @@
 
 .heading .title{
     font-size: 30px;
-    color: #FFFFFF;
+    color: gray;
     font-weight: 500;
     text-align: center;
 }
@@ -57,7 +57,7 @@
 }
 
 .taskbox{
-    background-color: #D9DFE9;
+    background-color: #dae8ff;
     padding: 15px;
     border-radius: 5px;
     min-width: 325px;
